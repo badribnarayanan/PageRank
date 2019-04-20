@@ -1,0 +1,6 @@
+urllib.request
+requests
+pandas
+nltk
+pytrends
+bs4
